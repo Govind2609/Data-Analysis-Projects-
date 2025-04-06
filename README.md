@@ -15,6 +15,7 @@ from raw data cleaning and exploratory data analysis (EDA) to interactive dashbo
 - **Tableau** – Interactive dashboards and storytelling with visuals
 - **Microsoft Excel** – Formulas, pivot tables, charts, dashboards
 - **Python (Jupyter Notebooks and Colab)** – EDA, data wrangling, machine learning models
+- **Python Libraries** - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
 ---
 
